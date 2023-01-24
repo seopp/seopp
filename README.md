@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://seungseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style= social&logo=#000000&logoColor=blue"/></a>
+<a href="https://seungseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style= social&logo=000000&logoColor=blue"/></a>
