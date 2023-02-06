@@ -14,11 +14,11 @@
 <br>
 
 <p align="center">
-반갑습니다👐<br>
-제 이름은 임승섭이고 건국대학교 응용통계학과 3학년에 재학중입니다:) <br>
-    Machine Learning, Deep Learning을 공부하고 있어요!<br>
-항상 배우려는 자세로 학습에 임하고 있습니다.<br>
-배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 데이터 사이언티스트입니다.
+Hello👐<br>
+my name is Lim Seung-seop and I am a third grader at Konkuk University.
+I am studying machine learning and deep learning.
+
+
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> -->
 </p>
 <p align="center" display="inline-block">
     💡DevOps <br>
