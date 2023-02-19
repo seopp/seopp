@@ -15,7 +15,7 @@
 
 <p align="center">
 Hello👐<br>
-My name is Lim Seung-seop and I am a third grader at Konkuk University. <br>
+My name is Seung-seop Lim and I am a third grader at Konkuk University. <br>
 I am studying machine learning and deep learning.
 
 
