@@ -7,7 +7,7 @@
     <a href="https://seungseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>y7511204@gmail.com<br>
+<Strong>📧Email📧</Strong><br>y7511204@naver.com<br>
 
 </p>
 
@@ -17,7 +17,7 @@
 Hello👐<br>
 My name is Seung-seop Lim and I am a third grader at Konkuk University. <br>
 I am studying machine learning and deep learning.
-
+I am an intern researcher at KIST.
 
 </p>
 
@@ -31,6 +31,8 @@ I am studying machine learning and deep learning.
     💡Language <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 
 </p>
 <p align="center" display="inline-block">
