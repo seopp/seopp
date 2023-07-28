@@ -31,7 +31,6 @@ I am an intern researcher at KIST.
     💡Language <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 </p>
@@ -40,6 +39,8 @@ I am an intern researcher at KIST.
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
