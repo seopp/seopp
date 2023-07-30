@@ -14,10 +14,10 @@
 <br>
 
 <p align="center">
-Hello👐<br>
+Hello👐<br> 
 My name is Seung-seop Lim and I am a third grader at Konkuk University. <br>
-I am studying machine learning and deep learning.
-I am an intern researcher at KIST.
+I am studying machine learning and deep learning. <br> 
+I am an intern researcher at <a href="https://www.kist.re.kr/ko/index.do">KIST</a>.
 
 </p>
 
