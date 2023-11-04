@@ -5,6 +5,7 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://seungseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    
     <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>y7511204@naver.com<br>
@@ -35,27 +36,14 @@ I am an intern researcher at <a href="https://www.kist.re.kr/ko/index.do">KIST</
 
 </p>
 <p align="center" display="inline-block">
-    💡Backend <br>
-</p>
-<p align="center" display="inline-block">
     💡Tools <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </p>
 <p align="center" display="inline-block">
-    💡DB <br>
-<!--     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> -->
-</p>
-<p align="center" display="inline-block">
-    💡DevOps <br>
-</p>
-<p align="center" display="inline-block">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-    💡CI/CD <br>
 </p>
 
 <p align="center">
