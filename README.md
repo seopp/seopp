@@ -20,6 +20,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    y7511204@naver.com <br> <br>
     <div align= "center"> <a href=https://seungseop.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seungseop.tistory.com/"> </a>
           </div>  <br> 
        </div> 
