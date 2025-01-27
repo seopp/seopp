@@ -75,23 +75,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Publications </h2>
     <b>Adversarial Purification via Super-Resolution and Diffusion</b><br>
-    <i>Mincheol Park, <b>Seungseop Lim</b>, Mijin Koo, Cheonjun Park, Won Woo Ro, Suhyun Kim</i><br>
     (under review)<br><br>
-</div>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Awards </h2>
-    <b>2023 K-디지털플랫폼 AI 경진대회 장려상</b> / 2023.12<br>
-    • 생성형 AI를 활용한 보이스피싱 예방 시뮬레이션 전화 서비스 개발<br><br>
-    <b>2023 바이오헬스 데이터 경진대회 - 치의학 분야 (일반 부문) 6위</b> / 2023.11<br>
-    • 사랑니 이미지 및 환자 데이터를 바탕으로 사랑니 발치 시간 예측 모델 개발<br><br>
-    <b>2023 창업을 위한 서울시 빅데이터 캠퍼스분원 경진대회 장려상</b> / 2023.04~2023.06<br>
-    • 서울시 무인택배함 최적 입지 선정을 통한 배송비 절감 모델 개발<br><br>
-    <b>2023 AI CONNECT 한국어 문서 요약 경진대회 입상</b> / 2023.03<br>
-    • 한정된 리소스를 활용하기 위해 Low-Rank Adaptation (LoRA) 기법을 적용하여 KoGPT 경량화<br><br>
-    <b>2022 교내 데이터분석 추계학술대회 대상</b> / 2022.11~2022.12<br>
-    • 보험사 고객 데이터를 활용한 자동차 보험 판매 예측 모델링 및 군집 분석을 통해 고객 맞춤형 마케팅 제안<br><br>
-    <b>2021 교내 데이터분석 추계학술대회 최우수상</b> / 2021.11~2021.12<br>
-    • 코로나19 검색량과 확진자 수 간의 상관관계에 관한 고찰<br><br>
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏫 Education </h2>
