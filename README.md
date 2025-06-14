@@ -11,7 +11,7 @@
         <tr>
             <td align="center">    <b><a href="https://www.aitrics.com/about">AITRICS</a></b><br></td>
             <td>
-                <b>NLP Engineer</b> / Alternative Military Service (~2026.02)<br>
+                <b>AI Researcher</b> / Alternative Military Service (~2026.02)<br>
                 2024.03 ~ Present
             </td>
         </tr>
