@@ -75,7 +75,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Publications </h2>
     <b>Adversarial Purification via Super-Resolution and Diffusion</b><br>
-    (under review)<br><br>
+    ICCV 2025 <br><br>
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏫 Education </h2>
